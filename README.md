@@ -237,6 +237,7 @@ All the translations for this repo will be listed below:
  * 🎥 [Variable Scope in JavaScript — Kirupa Chinnathambi](https://www.youtube.com/watch?v=dhp57T3p760)
  * 🎥 [JavaScript Block Scope and Function Scope — mmtuts](https://www.youtube.com/watch?v=aK_nuUAdr8E)
  * 🎥 [What the Heck is Lexical Scope? — NWCalvank](https://www.youtube.com/watch?v=GhNA0r10MmA)
+  * 🎥 [EL SCOPE en JAVASCRIPT — La Cocina del Código](https://www.youtube.com/watch?v=s-7C09ymzK8&list=PLfWyZ8S-XzecAttp3QU-gBBXvMqEZTQXB&index=6)
 
 **[⬆ Back to Top](#table-of-contents)**
 
